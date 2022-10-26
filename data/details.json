@@ -1,0 +1,58 @@
+
+[
+    {
+      "d_id":"1",
+      "d_title":"Complete HTML Guideline for Beginner ",
+      "d_details":"In this article, we will go through all the basic stuff required to write HTML. There are various tags that we must consider and know about while starting to code in HTML. These tags help in organization and basic formatting of elements in our script or web pages. These step by step procedures will guide you through the process of writing HTML.  HTML tags mark the beginning and end of an element (and are considered part of the element). Tags are containers. They tell you something about the content between the opening & closing tags.In the element above, the tags are <p> (opening tag) and </p> (closing tag). You will notice that the closing tag has a /. This particular tag is a paragraph tag. It specifies a paragraph in the HTML document. The words between the opening and closing tags are a paragraph.",
+      "d_pic":"https://www.freecodecamp.org/news/content/images/size/w2000/2021/08/ht-ml.jpeg",
+      "d_hours": "36h",
+      "price":"70",
+      "rating":"4.7"
+    },
+    {
+      "d_id": "2",
+      "d_title": "Complete CSS Guideline for Beginner",
+      "d_details": "Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.Create Stunning Web site - CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects.CSS is easy to learn and understand but it provides powerful control over the presentation of an HTML document. Most commonly, CSS is combined with the markup languages HTML or XHTML.",
+      "d_pic": "https://www.tutorialspoint.com/css/images/css.jpg",
+      "d_hours": "5h",
+      "price":"980",
+      "rating":"4.9"
+    },
+    
+    {
+      "d_id": "3",
+      "d_title": "Complete Bootstrap Guideline for Beginner",
+      "d_details": "Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates for creating common user interface components like forms, buttons, navigations, dropdowns, alerts, modals, tabs, accordions, carousels, tooltips, and so on.Bootstrap gives you ability to create flexible and responsive web layouts with much less efforts.Bootstrap was originally created by a designer and a developer at Twitter in mid-2010. Before being an open-sourced framework, Bootstrap was known as Twitter Blueprint.You can save a lot of time and effort with Bootstrap. So bookmark this website and continue on.",
+      "d_pic": "https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png",
+      "d_hours": "40h",
+      "price":"999",
+      "rating":"4.9"
+    },
+    {
+      "d_id": "4",
+      "d_title": "Complete Tailwind Guideline for Beginner",
+      "d_details": "One of the hottest and admittedly controversial CSS frameworks to land on the front-end scene in recent years is Tailwind CSS, and this Tailwind CSS tutorial for beginners will try to get you up to speed with what it's all about. I'll cover the basics, along with why you might want to use a tool like Tailwind CSS to build your web pages, and how Tailwind changes your whole view of HTML and CSS.I’ll also show you how to automatically optimize your Tailwind builds to ensure you're not using CSS you don't need. And indeed there are a lot of ways to write CSS out there – like Vanilla CSS3, LESS, SCSS, Bootstrap, styled-components, Windi CSS, and more...phew. Quite a list isn't it? And indeed there are a lot of ways to write CSS out there – like Vanilla CSS3, LESS, SCSS, Bootstrap, styled-components, Windi CSS, and more...phew. Quite a list isn't it?",
+      "d_pic": "https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:1450/h:740/q:mauto/f:avif/https://www.codeinwp.com/wp-content/uploads/2022/03/Tailwind-CSS-Tutorial.png",
+      "d_hours": "48h",
+      "price":"550",
+      "rating":"5"
+    },
+    {
+      "d_id": "5",
+      "d_title": "Complete Javascript Guideline for Beginner",
+      "d_details": "JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform.Javascript is the most popular programming language in the world and that makes it a programmer's great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc.Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript. ",
+      "d_pic": "https://www.tutorialspoint.com/javascript/images/javascript.jpg",
+      "d_hours": "25h",
+      "price": "125",
+      "rating":"4.9"
+    },
+    {
+      "d_id": "6",
+      "d_title": "A-Z react With Jhankar Mahabub ",
+      "d_details": "Welcome to the complete React tutorial for 2021. This guide should help you become effective with React as quickly as possible as you build a complete application along the way.You will learn how to create an entire React application all within around 100 lines of code, which makes use of many of the core concepts of React: hooks, state management, forms, JSX elements, components, props, styling, and conditionals.What this will do is create a new code sandbox for us. We can use code sandbox to create and develop complete React applications without having to install anything on our computer.",
+      "d_pic": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/04/the-complete-react-tutorial-2021.png",
+      "d_hours": "5h",
+      "price": "99",
+      "rating":"5"
+    }
+  ]
